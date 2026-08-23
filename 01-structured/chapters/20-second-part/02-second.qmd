@@ -2,10 +2,10 @@
 title: "Segundo capítulo de la segunda parte"
 ---
 
-# Segunda sección de la segunda parte
+## Segunda sección de la segunda parte
 
 Este capítulo debe aparecer como **capítulo 2** de la segunda parte.
 
-## Subsección final
+### Subsección final
 
 Último nivel mínimo de la plantilla.

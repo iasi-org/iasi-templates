@@ -5,6 +5,14 @@ book:
       chapters:
         - "chapters/10-first-part/01-first.qmd"
         - "chapters/10-first-part/02-second.qmd"
+    - part: "chapters/11-intro/index.qmd"
+      chapters:
+        - "chapters/11-intro/01-imperativa.qmd"
+        - "chapters/11-intro/02-funcional.qmd"
+    - part: "chapters/12-conceptos/index.qmd"
+      chapters:
+        - "chapters/12-conceptos/01-sistema_inteligente.qmd"
+        - "chapters/12-conceptos/02-modelo_entrenamiento.qmd"
     - part: "chapters/20-second-part/index.qmd"
       chapters:
         - "chapters/20-second-part/01-first.qmd"

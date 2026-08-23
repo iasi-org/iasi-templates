@@ -2,7 +2,7 @@
 title: "Primer capítulo de la segunda parte"
 ---
 
-# Primera sección de la segunda parte
+## Primera sección de la segunda parte
 
 Este capítulo es la prueba decisiva de reinicio de numeración.
 
