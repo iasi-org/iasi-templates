@@ -1,0 +1,5 @@
+publication:
+  version: 0.1.0
+  strategy: structured
+  content-dir: chapters
+  numbered: true

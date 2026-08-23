@@ -1,0 +1,15 @@
+---
+title: "Programación imperativa"
+---
+
+# El conocimiento reside en el programa
+
+Desde los primeros ordenadores, gran parte del software se ha construido describiendo explícitamente cómo debe resolverse un problema.
+
+## El requisito fundamental
+
+El ingeniero debe conocer previamente el algoritmo que resuelve el problema.
+
+### Una consecuencia
+
+El conocimiento necesario para resolver el problema queda expresado explícitamente en el programa.

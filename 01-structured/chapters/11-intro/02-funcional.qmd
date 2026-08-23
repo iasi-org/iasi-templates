@@ -1,0 +1,15 @@
+---
+title: "Programación funcional"
+---
+
+# Describiendo el problema, no el procedimiento
+
+La programación funcional desplaza el foco desde el procedimiento hacia las transformaciones que se desean aplicar sobre los datos.
+
+## Funciones puras
+
+Una función pura produce el mismo resultado cuando recibe los mismos parámetros.
+
+## Inmutabilidad
+
+Los datos tienden a considerarse inmutables y las transformaciones producen nuevos valores.

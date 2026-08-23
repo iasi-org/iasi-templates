@@ -1,0 +1,10 @@
+---
+title: "Primera parte"
+order: 1
+---
+
+## Propósito de la primera parte
+
+Esta página representa explícitamente la **Parte I** del libro.
+
+Los dos documentos siguientes son capítulos independientes de esta parte.

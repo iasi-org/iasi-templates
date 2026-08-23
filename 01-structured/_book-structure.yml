@@ -1,0 +1,11 @@
+book:
+  chapters:
+    - "index.qmd"
+    - part: "chapters/10-first-part/index.qmd"
+      chapters:
+        - "chapters/10-first-part/01-first.qmd"
+        - "chapters/10-first-part/02-second.qmd"
+    - part: "chapters/20-second-part/index.qmd"
+      chapters:
+        - "chapters/20-second-part/01-first.qmd"
+        - "chapters/20-second-part/02-second.qmd"

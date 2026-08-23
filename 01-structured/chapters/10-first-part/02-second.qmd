@@ -1,0 +1,16 @@
+---
+title: "Segundo capítulo"
+---
+
+# Segunda sección
+
+Este es el segundo capítulo de la primera parte.
+
+| Elemento | Valor |
+|---|---:|
+| Uno | 1 |
+| Dos | 2 |
+
+: Tabla de prueba {#tbl-template-test}
+
+La @tbl-template-test debe resolverse correctamente.

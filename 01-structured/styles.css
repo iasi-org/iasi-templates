@@ -1,0 +1,9 @@
+/* Prototype only: the generated part page is a rendering envelope, not editorial content. */
+header#title-block-header,
+.nav-footer {
+  display: none;
+}
+
+main.content {
+  padding-top: 0.5rem;
+}

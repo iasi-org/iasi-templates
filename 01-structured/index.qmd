@@ -1,0 +1,7 @@
+---
+title: "Plantilla IASI · Libro structured"
+---
+
+Este proyecto es la plantilla mínima y, al mismo tiempo, el banco de pruebas de integración para libros IASI con estrategia `structured`.
+
+La estructura contiene dos partes y dos capítulos por parte. Está pensada para detectar inmediatamente problemas de numeración, jerarquía de encabezados, referencias cruzadas y navegación.

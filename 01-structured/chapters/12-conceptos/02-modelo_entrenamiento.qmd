@@ -1,0 +1,19 @@
+---
+title: "Conceptos fundamentales de los sistemas inteligentes"
+---
+
+# Modelo, entrenamiento e inferencia
+
+Para comprender un sistema inteligente basado en aprendizaje automático conviene distinguir modelo, entrenamiento e inferencia.
+
+## Modelo
+
+Un modelo es una representación capaz de transformar unas entradas en un resultado.
+
+## Entrenamiento
+
+El entrenamiento es el proceso mediante el cual se ajustan los parámetros del modelo.
+
+## Inferencia
+
+La inferencia utiliza un modelo ya entrenado para obtener un resultado.

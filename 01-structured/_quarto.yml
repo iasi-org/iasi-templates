@@ -1,0 +1,16 @@
+project:
+  type: book
+
+profile:
+  group:
+    - [html, pdf]
+
+metadata-files:
+  - _book-structure.yml
+
+lang: es
+
+book:
+  title: "Plantilla IASI · Libro structured"
+  author: "Javier G. Grandez"
+  output-file: "iasi-book-structured-template"

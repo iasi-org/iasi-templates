@@ -1,0 +1,19 @@
+website:
+  sidebar:
+    style: floating
+    collapse-level: 1
+    contents:
+      - text: "Inicio"
+        href: index.qmd
+      - section: "Introducción"
+        contents:
+          - text: "1 Programación imperativa"
+            href: generated/parts/11-intro.qmd#chap-01-imperativa
+          - text: "2 Programación funcional"
+            href: generated/parts/11-intro.qmd#chap-02-funcional
+      - section: "Conceptos de Sistemas Inteligentes y LLM"
+        contents:
+          - text: "1 Sistema Inteligente"
+            href: generated/parts/12-conceptos.qmd#chap-01-sistema_inteligente
+          - text: "2 Conceptos fundamentales de los sistemas inteligentes"
+            href: generated/parts/12-conceptos.qmd#chap-02-modelo_entrenamiento

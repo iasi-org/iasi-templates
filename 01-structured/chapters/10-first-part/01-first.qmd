@@ -1,0 +1,15 @@
+---
+title: "Primer capítulo"
+---
+
+# Primera sección {#sec-first-section}
+
+Contenido mínimo para comprobar la numeración del primer capítulo de la primera parte.
+
+## Subsección
+
+Esta subsección permite comprobar que la jerarquía se conserva.
+
+![Figura de prueba.](../../resources/images/test-figure.svg){#fig-template-test width=45%}
+
+La @fig-template-test se utiliza para comprobar referencias cruzadas.

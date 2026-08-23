@@ -1,0 +1,15 @@
+---
+title: "Sistema Inteligente"
+---
+
+# ¿Qué es?
+
+Un sistema inteligente es una solución diseñada para recibir información, interpretarla y producir resultados o acciones orientadas a un objetivo.
+
+## Diferentes grados de autonomía
+
+No todos los sistemas inteligentes tienen el mismo nivel de autonomía.
+
+## Un modelo no es un sistema completo
+
+El modelo aporta una capacidad. El sistema establece cómo, cuándo y bajo qué condiciones puede utilizarse.

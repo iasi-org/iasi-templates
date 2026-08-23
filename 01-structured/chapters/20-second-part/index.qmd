@@ -1,0 +1,10 @@
+---
+title: "Segunda parte"
+order: 2
+---
+
+## Propósito de la segunda parte
+
+Esta página representa explícitamente la **Parte II** del libro.
+
+La prueba principal es verificar que, bajo la semántica IASI de `structured`, la numeración editorial vuelva a comenzar en **1** dentro de esta parte.

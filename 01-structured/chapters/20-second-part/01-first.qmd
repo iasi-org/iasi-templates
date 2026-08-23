@@ -1,0 +1,11 @@
+---
+title: "Primer capítulo de la segunda parte"
+---
+
+# Primera sección de la segunda parte
+
+Este capítulo es la prueba decisiva de reinicio de numeración.
+
+El resultado IASI esperado es **capítulo 1**, no la continuación del contador global de la primera parte.
+
+También hacemos una referencia a @sec-first-section para comprobar referencias entre partes.

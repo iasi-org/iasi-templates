@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Plantilla IASI · Libro structured",
+    "section": "",
+    "text": "Este proyecto es la plantilla mínima y, al mismo tiempo, el banco de pruebas de integración para libros IASI con estrategia structured.\nLa estructura contiene dos partes y dos capítulos por parte. Está pensada para detectar inmediatamente problemas de numeración, jerarquía de encabezados, referencias cruzadas y navegación.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plantilla IASI · Libro structured</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-first-part/index.html",
+    "href": "chapters/10-first-part/index.html",
+    "title": "Primera parte",
+    "section": "",
+    "text": "Propósito de la primera parte\nEsta página representa explícitamente la Parte I del libro.\nLos dos documentos siguientes son capítulos independientes de esta parte.",
+    "crumbs": [
+      "Inicio",
+      "Primera parte"
+    ]
+  },
+  {
+    "objectID": "chapters/10-first-part/01-first.html",
+    "href": "chapters/10-first-part/01-first.html",
+    "title": "2  Primer capítulo",
+    "section": "",
+    "text": "3 Primera sección\nContenido mínimo para comprobar la numeración del primer capítulo de la primera parte.",
+    "crumbs": [
+      "Inicio",
+      "Primera parte",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Primer capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-first-part/01-first.html#subsección",
+    "href": "chapters/10-first-part/01-first.html#subsección",
+    "title": "2  Primer capítulo",
+    "section": "3.1 Subsección",
+    "text": "3.1 Subsección\nEsta subsección permite comprobar que la jerarquía se conserva.\n\n\n\n\n\n\nFigura 3.1: Figura de prueba.\n\n\n\nLa Figura 3.1 se utiliza para comprobar referencias cruzadas.",
+    "crumbs": [
+      "Inicio",
+      "Primera parte",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Primer capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-first-part/02-second.html",
+    "href": "chapters/10-first-part/02-second.html",
+    "title": "3  Segundo capítulo",
+    "section": "",
+    "text": "4 Segunda sección\nEste es el segundo capítulo de la primera parte.\n\n\n\nTabla 4.1: Tabla de prueba\n\n\n\n\n\nElemento\nValor\n\n\n\n\nUno\n1\n\n\nDos\n2\n\n\n\n\n\n\nLa Tabla 4.1 debe resolverse correctamente.",
+    "crumbs": [
+      "Inicio",
+      "Primera parte",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Segundo capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/20-second-part/index.html",
+    "href": "chapters/20-second-part/index.html",
+    "title": "Segunda parte",
+    "section": "",
+    "text": "Propósito de la segunda parte\nEsta página representa explícitamente la Parte II del libro.\nLa prueba principal es verificar que, bajo la semántica IASI de structured, la numeración editorial vuelva a comenzar en 1 dentro de esta parte.",
+    "crumbs": [
+      "Inicio",
+      "Segunda parte"
+    ]
+  },
+  {
+    "objectID": "chapters/20-second-part/01-first.html",
+    "href": "chapters/20-second-part/01-first.html",
+    "title": "4  Primer capítulo de la segunda parte",
+    "section": "",
+    "text": "5 Primera sección de la segunda parte\nEste capítulo es la prueba decisiva de reinicio de numeración.\nEl resultado IASI esperado es capítulo 1, no la continuación del contador global de la primera parte.\nTambién hacemos una referencia a Capítulo 3 para comprobar referencias entre partes.",
+    "crumbs": [
+      "Inicio",
+      "Segunda parte",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Primer capítulo de la segunda parte</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/20-second-part/02-second.html",
+    "href": "chapters/20-second-part/02-second.html",
+    "title": "5  Segundo capítulo de la segunda parte",
+    "section": "",
+    "text": "6 Segunda sección de la segunda parte\nEste capítulo debe aparecer como capítulo 2 de la segunda parte.",
+    "crumbs": [
+      "Inicio",
+      "Segunda parte",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Segundo capítulo de la segunda parte</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/20-second-part/02-second.html#subsección-final",
+    "href": "chapters/20-second-part/02-second.html#subsección-final",
+    "title": "5  Segundo capítulo de la segunda parte",
+    "section": "6.1 Subsección final",
+    "text": "6.1 Subsección final\nÚltimo nivel mínimo de la plantilla.",
+    "crumbs": [
+      "Inicio",
+      "Segunda parte",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Segundo capítulo de la segunda parte</span>"
+    ]
+  }
+]
